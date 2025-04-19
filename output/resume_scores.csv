@@ -1,0 +1,67 @@
+masked_name,masked_email,original_name,original_email,text,total_score,CV Score,Education Score,Experience Score,AI Skill Score,Tech Skill Score,Feedback
+Atrikesh Print,mishraatrikesh@gmail.com,Atrikesh Print,mishraatrikesh@gmail.com,"   mishraatrikesh@gmail.com
+   7348075885
+   Linkedin
+   Github
+Atrikesh Mishra
+EDUCATION
+B.Tech in Computer Science and Engineering (Data Science)
+       ABES Institute of Technology (Affiliated to AKTU)
+      -Currently 8.5 cgpa
+Aug'20 - July'24
+Ghaziabad,India
+Class 12th Board
+       Allahabad Public School & College
+      -83.8% in CBSE Board
+Mar'18 - Mar'19
+Prayagraj,India
+Class 10th Board
+       Allahabad Public School & College
+      -95% in CBSE Board
+Mar'16 - Mar'17
+Prayagraj,India
+KEY SKILLS
+C++
+ 
+Data Structure
+ 
+OOPS Concept
+ 
+Machine Learning
+ 
+DBMS
+ 
+Python
+Power BI
+ 
+Java
+ 
+Git & Github
+INTERNSHIP
+1) Python Developer
+     At CodeClause
+Aug'23 - Sept'23
+Ghaziabad,India
+     Speed Typing Test - [SourceCode]
+     Developed a Python-based Speed Typing Test application to evaluate typing speed and
+       accuracy.
+     Tech Involved : Python, Tkinter.
+     Also completed another assignment related to Python. - [SourceCode]
+PROJECTS
+App Rating Predictor  - [SourceCode]
+       Predicted app ratings on the Google Play Store based on various features and attributes.
+       Tech Involved : Machine Learning, Python,  and Jupyter Notebook.
+Advance Loan Prediction System  - [SourceCode]
+       To compare the risk factor while giving loans using various ML algorithms and select the best
+          person among them who most likely to repay the loan.
+       Tech Involved : Machine Learning, Python, and  Jupyter Notebook.
+Centralised Grievance System Portel - [SourceCode]
+       Institutions of AKTU raises there technical problems to AICTE. AICTE also able to get their
+         Remote Access of college PC's.
+       Tech Involved : JAVA, HTML, Bootstrap, Javascript, PHP and API's.
+       Impact : Ranker in Smart India Hackathon 2022. [Certificate]
+ACHIEVEMENTS
+       Currently having 5 star in HackerRank.
+       Solved 200+ coding questions on GeekForGeeks
+       Intermediate Machine Learning completion certificate from Kaggle.
+",70,70,20,10,10,30,
