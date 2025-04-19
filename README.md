@@ -20,10 +20,10 @@ This project automates the entire process of collecting resumes, analyzing and s
 4. Make sure you have enabled App Passwords for Gmail
 
  **Features:**
-GUI-based Resume Upload \n
-Automated Pipeline: Resume → Score → Email
-Intelligent CV Scoring
-Personalized Email Feedback
-Auto Cleanup of resumes post-email
-Minimal Manual Effort, Fully Automated Workflow
-Gmail App Password based secure email sending
+1. GUI-based Resume Upload
+2. Automated Pipeline: Resume → Score → Email
+3. Intelligent CV Scoring
+4. Personalized Email Feedback
+5. Auto Cleanup of resumes post-email
+6. Minimal Manual Effort, Fully Automated Workflow
+7. Gmail App Password based secure email sending
