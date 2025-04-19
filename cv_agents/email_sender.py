@@ -7,8 +7,8 @@ import os
 df = pd.read_csv('output/resume_scores.csv')
 
 def send_feedback_email(to_email, name, score, education_score, experience_score, ai_score, tech_score, feedback):
-    from_email = "atrikeshmishra2002@gmail.com"
-    password = "vhic ibak ojgd irxn" 
+    from_email = "your mail@gmail.com"
+    password = "password" 
     msg = MIMEMultipart()
     msg['From'] = "Atrikesh Mishra"
     msg['To'] = to_email
